@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "/bin/python",
+    "python.analysis.extraPaths": [
+        "/home/ubuntu/ros2_ws",
+        "/opt/ros/humble"
+    ],
+    "python.autoComplete.extraPaths": [
+    
+        "/home/ubuntu/ros2_ws",
+        "/opt/ros/humble"
+    ]
+}
