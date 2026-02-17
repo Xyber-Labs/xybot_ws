@@ -51,4 +51,4 @@ Refer to the `command` cheat sheet for additional launch patterns (calibration, 
 - Follow ROS 2 best practices: format with `ament_uncrustify/black`, keep launch files parameterized, and prefer composable nodes where possible.
 - Before pushing, run a secret scan (e.g., Gitleaks) and ensure new assets respect the existing `.gitignore` rules.
 
-Happy hacking — and don’t forget to share your favorite demo clip once the robot is rolling!
+Happy hacking — don't forget to share your favorite demo clip once the robot is rolling!
